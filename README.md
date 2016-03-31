@@ -1,4 +1,4 @@
-# Jquery-Windows
+# Jquery-Windows (under construction)
 
 #### Bureau, icone et barre de taches
 
